@@ -1,6 +1,6 @@
 # Full Stack Chat App  
 
-Full Stack Chat App is a modern, real-time messaging platform built with the MERN stack. It provides secure user authentication, real-time communication, and a responsive user interface, making it an excellent solution for seamless interaction.
+Full Stack Chat App is a real-time messaging application built using the MERN stack. It allows users to register, log in, and engage in seamless, secure, and real-time conversations. Designed for individuals, the app offers features such as real-time updates, user authentication, online status visibility, and an intuitive user interface.
 
 ---
 
